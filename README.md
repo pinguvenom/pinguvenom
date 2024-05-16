@@ -8,4 +8,5 @@
 
 ### Contact
 - 📫 How to reach me: pinguvenom@gmail.com
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pinguvenom)](https://solved.ac/pinguvenom)
